@@ -1,0 +1,5 @@
+pyaudio
+wheel
+google-api-python-client
+monotonic
+SpeechRecognition
